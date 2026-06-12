@@ -1,7 +1,7 @@
 think-site-assets/
 └── product-carousel/
-    ├── 01-box-front.jpg
-    ├── 02-box-back.jpg
+    ├── 01-box-front.png
+    ├── 02-box-back.png
     ├── 03-cards-fan.jpg
     ├── 04-card-closeup.jpg
     ├── 05-play-in-use.jpg
